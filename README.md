@@ -4,9 +4,7 @@
 
 This ReactJS application fetches product data from the **Fake Store API** and allows users to add products to their cart through an intuitive modal interface. The project is designed with responsiveness in mind, ensuring a seamless experience on both desktop and mobile devices.
 
-## Demo
 
-Check out the live demo [here](https://react-router-model.netlify.app/).
 
 ## Features
 
